@@ -45,3 +45,19 @@ body{
     background: white;
     padding: 10px;
 }
+
+#navbrandlink{
+ float: right;
+  color: blue;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 10px;
+
+}
+
+#lab-brand{
+padding: 20px 20px;
+
+}
+
